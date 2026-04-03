@@ -141,6 +141,21 @@ border-radius:5px;
 color:white;
 text-decoration:none;
 }
+contact-btn{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: #38bdf8;
+    color: black;
+    text-decoration: none;
+    border-radius: 6px;
+    transition:0.3s;
+
+}
+.contact-bin: :hover{
+    transform:scale(1.05);
+    background:#0ea5e9;
+}
 
 /* Reveal */
 .hidden{opacity:0;transform:translateY(40px);}
