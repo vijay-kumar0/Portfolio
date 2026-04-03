@@ -152,7 +152,7 @@ contact-btn{
     transition:0.3s;
 
 }
-.contact-bin: :hover{
+.contact-bin:hover{
     transform:scale(1.05);
     background:#0ea5e9;
 }
