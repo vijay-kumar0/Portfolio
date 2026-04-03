@@ -6,7 +6,7 @@ It showcases my projects, skills, and progress in frontend development.
 ---
 
 ## 🚀 Live Demo
-👉 https://yourusername.github.io/
+👉 https://vijay-kumar0.github.io/
 
 ---
 
